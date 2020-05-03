@@ -10,18 +10,6 @@ Lighhouse testing revealed a good app:
 ![alt text](./public/assets/images/lighthouse.jpg "lighthouse report")
 
 
-
-- The app should be installable as a PWA
-- The app should have API routes and HTML routes
-- Parts of the application should work offline
--The application should look the same online or offline
-- You will need to implement:
-manifest.webmanifest
-service-worker.js
-- Implement the compression npm library
-- Deploy your application to heroku
-- Test your application with lighthouse
-
 ### Submission:
 
 Github Repo -
